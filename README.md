@@ -6,7 +6,7 @@
 
 ## Advertencia legal y ética
 
-Usá `ike-scan` únicamente en entornos de laboratorio o sobre redes y sistemas para los cuales tengás **autorización explícita**. El escaneo no autorizado puede ser ilegal y/o violar políticas de uso. Este README tiene fines educativos y defensivos.
+Usá `ike-scan` únicamente en entornos de laboratorio o sobre redes y sistemas para los cuales tengás **autorización explícita**. El escaneo no autorizado puede ser ilegal y/o violar políticas de uso. Este tutorial tiene fines educativos y defensivos.
 
 ---
 
@@ -27,14 +27,6 @@ En sistemas Debian/Ubuntu y derivados podés instalarlo desde los repositorios o
 sudo apt update
 sudo apt install ike-scan
 ```
-
-En macOS (con Homebrew):
-
-```bash
-brew install ike-scan
-```
-
-También se puede compilar desde el código fuente descargándolo desde el repositorio oficial o la página del proyecto, siguiendo las instrucciones proporcionadas allí (requisitos: compilador C, libpcap, etc.).
 
 ---
 
@@ -136,8 +128,8 @@ Ejemplo simplificado de salida:
 
 ## Referencias
 
-- Página del proyecto / documentación (buscá el repositorio oficial o la página del paquete para más detalles).  
-- `man ike-scan` en tu sistema para opciones completas y ejemplos.
+- [`ike-scan` en Kali Linux](https://www.kali.org/tools/ike-scan/)
+- [GitHub de `ike-scan`](https://github.com/royhills/ike-scan)
 
 ---
 
