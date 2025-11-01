@@ -1,4 +1,4 @@
-# ike-scan
+# Tutorial de ike-scan
 
 **ike-scan** es una herramienta de línea de comandos utilizada para **descubrir y enumerar dispositivos VPN/IPsec** que usan el protocolo **IKE (Internet Key Exchange)**. Es útil en auditorías de red, pentesting (con autorización) y tareas de reconocimiento para identificar endpoints que responden a solicitudes IKEv1/IKEv2 y recopilar información como versiones, identificadores y timbres de respuesta.
 
@@ -126,21 +126,17 @@ Ejemplo simplificado de salida:
 
 ---
 
-## Referencias
+## Referencias y repo Oficial
 
 - [`ike-scan` en Kali Linux](https://www.kali.org/tools/ike-scan/)
 - [GitHub de `ike-scan`](https://github.com/royhills/ike-scan)
 
 ---
 
-## Licencia y atribución
+## Autor
+Explicación elaborada por Sebastian Peinador para propósitos didácticos y de investigación en ciberseguridad ofensiva.
 
-Respetá la licencia del proyecto original. Usá y redistribuí conforme a los términos indicados por los mantenedores.
-
----
-
-## Contacto / Contribuir
-
-Si querés adaptar este README para tu curso (añadir ejemplos prácticos, labs paso a paso o integración con otras herramientas), puedo generarlo en inglés, añadir ejemplos de nmap, o preparar un laboratorio listo para presentar a tus alumnos.
+## Licencia
+Este material se distribuye bajo la licencia MIT.
 
 
